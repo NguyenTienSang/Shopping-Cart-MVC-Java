@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/cart.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/checkout.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/contact.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/signup.jsp=UTF-8
+encoding//src/admin/controller/categoryController.java=UTF-8
+encoding//src/admin/controller/orderController.java=UTF-8
+encoding//src/admin/controller/proController.java=UTF-8
+encoding//src/admin/controller/userController.java=UTF-8
+encoding//src/tiensang/controller/CartController.java=UTF-8
+encoding//src/tiensang/controller/CheckoutController.java=UTF-8
+encoding//src/tiensang/controller/HomeController.java=UTF-8
+encoding//src/tiensang/controller/SignupController.java=UTF-8
